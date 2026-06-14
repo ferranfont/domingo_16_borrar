@@ -9,3 +9,7 @@
 # Generated images and reports
 *.png
 *.html
+
+# Python
+__pycache__/
+*.pyc
