@@ -1,0 +1,11 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Generated/exported data
+*.csv
+
+# Generated images and reports
+*.png
+*.html

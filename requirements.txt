@@ -1,0 +1,35 @@
+# Análisis y manipulación de datos
+numpy
+pandas
+scipy
+
+# Análisis técnico
+TA-Lib
+ta
+pandas-ta
+
+# Visualización
+matplotlib
+seaborn
+plotly
+mplfinance
+
+# Datos de mercado / brokers
+yfinance
+ccxt
+alpha_vantage
+polygon-api-client
+
+# Backtesting
+backtrader
+vectorbt
+backtesting
+
+# Machine Learning
+scikit-learn
+statsmodels
+
+# Utilidades
+requests
+python-dotenv
+jupyter
